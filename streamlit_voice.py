@@ -13,7 +13,7 @@ from sklearn.metrics import precision_score, recall_score
 def main():
     st.title("Binary Classification Web App")
     st.sidebar.title("Binary Classification Web App")
-    st.markdown("Is it a male👨 singer of female👩? ")
+    st.markdown("Is it a male's👨 voice or a female's👩? ")
     st.sidebar.markdown("Is it a male👨 or female👩 voice🎤?")
 
     @st.cache(persist=True)
