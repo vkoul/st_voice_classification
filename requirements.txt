@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.21.0
 streamlit-aggrid==0.2.2-2
 click
 numpy==1.21.0
